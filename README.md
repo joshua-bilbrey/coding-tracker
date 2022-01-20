@@ -9,3 +9,5 @@ Press start to begin the timer, you can pause it by pressing the button again. W
 Press update other time if you want to adjust a previous date's entry. In the new popup window you can choose the date with YYYYmmdd formula and then either delete the entry or update the minutes spent coding for that day.
 
 I hope you enjoy this!
+
+** The pixela.py module has code to create user and graph on pixela. You will need to setup your username and token first; then add them as environment variables. Visit the [Pixela Docs](https://docs.pixe.la/) for more information on the API.
