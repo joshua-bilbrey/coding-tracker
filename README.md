@@ -10,4 +10,4 @@ Press update other time if you want to adjust a previous date's entry. In the ne
 
 I hope you enjoy this!
 
-** The pixela.py module has code to create user and graph on pixela. You will need to setup your username and token first; then add them as environment variables. Visit the [Pixela Docs](https://docs.pixe.la/) for more information on the API.
+*The pixela.py module has code to create user and graph on pixela. You will need to setup your username and token first; then add them as environment variables. Visit the [Pixela Docs](https://docs.pixe.la/) for more information on the API.*
